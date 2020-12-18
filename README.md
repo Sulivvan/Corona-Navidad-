@@ -1,2 +1,2 @@
-# Corona-Navidad-
+# Corona Navidad
 JLCPCB Contest
