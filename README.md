@@ -11,5 +11,6 @@ Led Colors:
 -Yellow
 
  ![Screenshot](fotocorona.PNG)
+ ![Screenshot](fotocorona1.PNG)
 
 Thanks to alvaro25
